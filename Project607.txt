@@ -1,0 +1,38 @@
+Data Sources
+https://www.fueleconomy.gov/feg/epadata/22data.zip
+https://www.eia.gov/petroleum/gasdiesel/xls/pswrgvwall.xls
+
+Vlad
+Clean Up the Data:
+22 (Gas)
+22 PHEV
+22 EVs
+combine into 1 df
+- in PHEV, select only only the 2022 row in model year
+- in  EV, select only rows with KW-HR R
+- append 3 dfs
+
+Sanielle
+Overall: Are EV vehicles cost effective against combustion engines?
+
+- What is the difference in cost between the vehicle class type? (van, trucks for ev, gas, etc)
+- What is the difference in cost between transmission types ? (automative, cvt)
+- Number of vehicles in each class?
+- Comparison between fuel efficiency and the different vehicle types (highway, city, combined mileage)
+
+Jose/Johnny
+Shiny App
+5 year estimate
+- Input cost gas
+- Input for KWH
+- Mileage Driven
+
+3 selections: EV, Gas,PHEV 
+Graph
+Summary Table 
+
+Johnny
+Rpubs presentation
+
+
+
